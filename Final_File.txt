@@ -1,0 +1,5 @@
+Okay this is the final file. I fucked up the last one. Can I swear on a file in a private repo of Github? I don't know but it's a good way to find out. Anyhoo, the actual way of doing this is:
+
+git add <FileName>
+Git commit -a -m "Message for you to understand"
+Git push
