@@ -1,0 +1,7 @@
+This is my second Text File.
+
+The purpose of this is to create multiple text files in the GitHub main repo. This will be done by:
+	git commit -a -m "Message for this file"
+	git push
+
+Then I will subtly change up the HelloWorld.txt file. Like a # somewhere or something and see what happens when I push that. It should work fantastically, but let's see.
